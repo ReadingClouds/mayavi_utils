@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lo"
+  given-names: "Chun Hay Brian"
+  orcid: "https://orcid.org/0000-0001-7661-7080"
+- family-names: "Shipley"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-7812-8309"
+title: "ParaChute Template"
+version: 1.0.0
+doi: 10.xxxx/xxxx
+date-released: YYYY-MM-DD
+url: "https://github.com/brianlo747/parachute-template"

@@ -2,7 +2,7 @@
 Some wrapper functions to create mayavi objects.
 
 # About The Project
-See https://paraconuk.github.io/mayavi_utils/ for documentation.
+<!-- See https://ReadingClouds.github.io/mayavi_utils/ for documentation. -->
 
 See the [changelog](CHANGELOG.md) for a summary of changes.
 

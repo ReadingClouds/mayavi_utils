@@ -37,5 +37,5 @@ If you have a suggestion that would make this code better, please fork the repo 
 
 # Contacts
 If you have queries about this repository, contact the contributors:
-- Peter Clark <p,clark [at] reading.ac.uk> @brianlo747
+- Peter Clark <p,clark [at] reading.ac.uk> 
 
